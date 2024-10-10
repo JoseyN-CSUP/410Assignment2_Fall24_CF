@@ -16,7 +16,7 @@ def display_menu():
     print()
     
 def convert_temp():
-    option = int(input("Enter a menu option: "))
+    option = input("Enter a menu option: ")
     print()
     
     if option == "1":
